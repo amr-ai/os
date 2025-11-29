@@ -55,7 +55,7 @@ const About: React.FC<AboutProps> = (props) => {
                     Since then, I’ve worked on many passion-driven projects,
                     applications, and more. You can check out the projects
                     available for viewing on my{' '}
-                    <Link to="/projects/software">Software Projects</Link> page.
+                    <Link to="/projects/software">Projects</Link> page.
                 </p>
                 <br />
                 <p>

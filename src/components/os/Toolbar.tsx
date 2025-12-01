@@ -96,7 +96,7 @@ const Toolbar: React.FC<ToolbarProps> = ({
                 >
                     <div style={styles.startWindowInner}>
                         <div style={styles.verticalStartContainer}>
-                            <p style={styles.verticalText}>TomasPS - OS</p>
+                            <p style={styles.verticalText}>Amr - OS</p>
                         </div>
                         <div style={styles.startWindowContent}>
                             <div style={styles.startMenuSpace} />
